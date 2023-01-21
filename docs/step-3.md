@@ -81,3 +81,8 @@ button {
 button:hover { background-color: #6884f9; }
 button:active { background-color: #192e86; }
 ```
+3. Levantar el proyecto
+
+```
+dotnet run
+```

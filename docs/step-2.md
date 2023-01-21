@@ -65,3 +65,9 @@ else
 ```
 
 3. Observar el uso de Quick Grid en las llamadas, filtros y paginación.
+
+4. Levantar el proyecto
+
+```
+dotnet run
+```

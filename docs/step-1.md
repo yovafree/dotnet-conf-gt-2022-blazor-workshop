@@ -103,3 +103,8 @@ else
 </div>
 ```
 
+7. Levantar el proyecto
+
+```
+dotnet run
+```
